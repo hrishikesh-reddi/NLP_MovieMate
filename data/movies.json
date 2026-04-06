@@ -1,0 +1,3820 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": 9.3,
+    "genre": [
+      "Drama"
+    ],
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "duration": 142,
+    "plot": "A banker convicted of uxoricide forms a friendship with a fellow prisoner as they find redemption through acts of common decency over two decades."
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "rating": 9.2,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "duration": 175,
+    "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant youngest son."
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "rating": 9,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "duration": 152,
+    "plot": "When the menace known as the Joker wreaks havoc on Gotham, Batman must accept one of the greatest psychological and physical tests."
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "rating": 8.9,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "duration": 154,
+    "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife intertwine in four tales of violence and redemption."
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "duration": 148,
+    "plot": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "rating": 8.8,
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "duration": 139,
+    "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "rating": 8.8,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "duration": 142,
+    "plot": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man."
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "rating": 8.7,
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "director": "Lana Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "duration": 136,
+    "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth about the life he knows."
+  },
+  {
+    "title": "Goodfellas",
+    "year": 1990,
+    "rating": 8.7,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci"
+    ],
+    "duration": 146,
+    "plot": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners."
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "rating": 8.7,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "duration": 169,
+    "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "title": "Schindler's List",
+    "year": 1993,
+    "rating": 9,
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "duration": 195,
+    "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce."
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "rating": 8.6,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "director": "Jonathan Demme",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Lawrence A. Bonney"
+    ],
+    "duration": 118,
+    "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer."
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "rating": 8.6,
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "duration": 169,
+    "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "rating": 9,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "duration": 201,
+    "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom."
+  },
+  {
+    "title": "12 Angry Men",
+    "year": 1957,
+    "rating": 9,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Sidney Lumet",
+    "cast": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam"
+    ],
+    "duration": 96,
+    "plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence."
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "rating": 8.5,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "duration": 155,
+    "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+  },
+  {
+    "title": "Spirited Away",
+    "year": 2001,
+    "rating": 8.6,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino"
+    ],
+    "duration": 125,
+    "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits."
+  },
+  {
+    "title": "The Green Mile",
+    "year": 1999,
+    "rating": 8.6,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Frank Darabont",
+    "cast": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "duration": 189,
+    "plot": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape."
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "rating": 8.5,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Bong Joon-ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "duration": 132,
+    "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+  },
+  {
+    "title": "City of God",
+    "year": 2002,
+    "rating": 8.6,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Fernando Meirelles",
+    "cast": [
+      "Alexandre Rodrigues",
+      "Matheus Nachtergaele",
+      "Leandro Firmino"
+    ],
+    "duration": 130,
+    "plot": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a drug dealer."
+  },
+  {
+    "title": "The Prestige",
+    "year": 2006,
+    "rating": 8.5,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "duration": 130,
+    "plot": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything."
+  },
+  {
+    "title": "Whiplash",
+    "year": 2014,
+    "rating": 8.5,
+    "genre": [
+      "Drama",
+      "Musical"
+    ],
+    "director": "Damien Chazelle",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Melissa Benoist"
+    ],
+    "duration": 106,
+    "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing."
+  },
+  {
+    "title": "The Departed",
+    "year": 2006,
+    "rating": 8.5,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "duration": 151,
+    "plot": "An undercover cop and a mole try to identify each other while infiltrating an Irish gang in South Boston."
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012,
+    "rating": 8.4,
+    "genre": [
+      "Drama",
+      "Western"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio"
+    ],
+    "duration": 165,
+    "plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi."
+  },
+  {
+    "title": "The Godfather: Part II",
+    "year": 1974,
+    "rating": 9,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall"
+    ],
+    "duration": 202,
+    "plot": "The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on the family crime syndicate."
+  },
+  {
+    "title": "Rear Window",
+    "year": 1954,
+    "rating": 8.5,
+    "genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Alfred Hitchcock",
+    "cast": [
+      "James Stewart",
+      "Grace Kelly",
+      "Wendell Corey"
+    ],
+    "duration": 112,
+    "plot": "A photographer in a wheelchair spies on his neighbors from his Greenwich Village apartment window, and becomes convinced one of them has committed murder."
+  },
+  {
+    "title": "Psycho",
+    "year": 1960,
+    "rating": 8.5,
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Alfred Hitchcock",
+    "cast": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles"
+    ],
+    "duration": 109,
+    "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother."
+  },
+  {
+    "title": "Léon: The Professional",
+    "year": 1994,
+    "rating": 8.5,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Luc Besson",
+    "cast": [
+      "Jean Reno",
+      "Gary Oldman",
+      "Natalie Portman"
+    ],
+    "duration": 110,
+    "plot": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered."
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "rating": 8.7,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "director": "Irvin Kershner",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "duration": 124,
+    "plot": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda while his friends are pursued across the galaxy."
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "rating": 8.5,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Musical"
+    ],
+    "director": "Roger Allers",
+    "cast": [
+      "Matthew Broderick",
+      "James Earl Jones",
+      "Jeremy Irons"
+    ],
+    "duration": 88,
+    "plot": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."
+  },
+  {
+    "title": "Se7en",
+    "year": 1995,
+    "rating": 8.6,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Kevin Spacey"
+    ],
+    "duration": 127,
+    "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi."
+  },
+  {
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "rating": 8.5,
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Bryan Singer",
+    "cast": [
+      "Kevin Spacey",
+      "Gabriel Byrne",
+      "Chazz Palminteri"
+    ],
+    "duration": 106,
+    "plot": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup."
+  },
+  {
+    "title": "WALL-E",
+    "year": 2008,
+    "rating": 8.4,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Sci-Fi"
+    ],
+    "director": "Andrew Stanton",
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin"
+    ],
+    "duration": 98,
+    "plot": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "rating": 8.2,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Ethan Coen",
+    "cast": [
+      "Javier Bardem",
+      "Josh Brolin",
+      "Tommy Lee Jones"
+    ],
+    "duration": 122,
+    "plot": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande."
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "rating": 8.4,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Todd Phillips",
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "duration": 122,
+    "plot": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City."
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "rating": 8.1,
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Wes Anderson",
+    "cast": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Mathieu Amalric"
+    ],
+    "duration": 99,
+    "plot": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy."
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "rating": 8.5,
+    "genre": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "duration": 117,
+    "plot": "After investigating a mysterious transmission, the crew of a commercial spacecraft encounters a deadly lifeform."
+  },
+  {
+    "title": "Blade Runner",
+    "year": 1982,
+    "rating": 8.1,
+    "genre": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young"
+    ],
+    "duration": 117,
+    "plot": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator."
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "rating": 8.6,
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong"
+    ],
+    "duration": 137,
+    "plot": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son from an even more advanced and powerful cyborg."
+  },
+  {
+    "title": "The Shining",
+    "year": 1980,
+    "rating": 8.4,
+    "genre": [
+      "Drama",
+      "Horror"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "duration": 146,
+    "plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence."
+  },
+  {
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "rating": 8.3,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Michael Bates"
+    ],
+    "duration": 136,
+    "plot": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned."
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "rating": 8.3,
+    "genre": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "Douglas Rain"
+    ],
+    "duration": 149,
+    "plot": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with the help of HAL 9000."
+  },
+  {
+    "title": "Back to the Future",
+    "year": 1985,
+    "rating": 8.5,
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ],
+    "duration": 116,
+    "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean."
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "rating": 8.2,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ],
+    "duration": 127,
+    "plot": "A pragmatic paleontologist touring an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "rating": 8.1,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "George Miller",
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "duration": 120,
+    "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland with the aid of a group of female prisoners and a drifter named Max."
+  },
+  {
+    "title": "The Truman Show",
+    "year": 1998,
+    "rating": 8.2,
+    "genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Peter Weir",
+    "cast": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "duration": 103,
+    "plot": "An insurance salesman discovers his whole life is actually a reality TV show."
+  },
+  {
+    "title": "Amélie",
+    "year": 2001,
+    "rating": 8.3,
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Jean-Pierre Jeunet",
+    "cast": [
+      "Audrey Tautou",
+      "Mathieu Kassovitz",
+      "Rufus"
+    ],
+    "duration": 122,
+    "plot": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and discovers love."
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "rating": 8.3,
+    "genre": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "director": "Michel Gondry",
+    "cast": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Gerry Robert Byrne"
+    ],
+    "duration": 108,
+    "plot": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories."
+  },
+  {
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "rating": 8.5,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Giuseppe Tornatore",
+    "cast": [
+      "Philippe Noiret",
+      "Enzo Cannavale",
+      "Antonella Attili"
+    ],
+    "duration": 155,
+    "plot": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the theater's projectionist."
+  },
+  {
+    "title": "The Pianist",
+    "year": 2002,
+    "rating": 8.5,
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "director": "Roman Polanski",
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay"
+    ],
+    "duration": 150,
+    "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+  },
+  {
+    "title": "Life is Beautiful",
+    "year": 1997,
+    "rating": 8.6,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "director": "Roberto Benigni",
+    "cast": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini"
+    ],
+    "duration": 116,
+    "plot": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son."
+  },
+  {
+    "title": "Once Upon a Time in America",
+    "year": 1984,
+    "rating": 8.3,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Sergio Leone",
+    "cast": [
+      "Robert De Niro",
+      "James Woods",
+      "Elizabeth McGovern"
+    ],
+    "duration": 229,
+    "plot": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life."
+  },
+  {
+    "title": "Casablanca",
+    "year": 1942,
+    "rating": 8.5,
+    "genre": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "director": "Michael Curtiz",
+    "cast": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid"
+    ],
+    "duration": 102,
+    "plot": "A cynical expatriate American cafe owner struggles to decide whether to help his former lover and her fugitive husband escape the Nazis in French Morocco."
+  },
+  {
+    "title": "Vertigo",
+    "year": 1958,
+    "rating": 8.3,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "director": "Alfred Hitchcock",
+    "cast": [
+      "James Stewart",
+      "Kim Novak",
+      "Barbara Bel Geddes"
+    ],
+    "duration": 128,
+    "plot": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail."
+  },
+  {
+    "title": "Taxi Driver",
+    "year": 1976,
+    "rating": 8.2,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd"
+    ],
+    "duration": 114,
+    "plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action."
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "rating": 8.7,
+    "genre": [
+      "Drama"
+    ],
+    "director": "Milos Forman",
+    "cast": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Michael Berryman"
+    ],
+    "duration": 133,
+    "plot": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients."
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "rating": 8.8,
+    "genre": [
+      "Adventure",
+      "Western"
+    ],
+    "director": "Sergio Leone",
+    "cast": [
+      "Clint Eastwood",
+      "Lee Van Cleef",
+      "Eli Wallach"
+    ],
+    "duration": 161,
+    "plot": "A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "rating": 8.5,
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall"
+    ],
+    "duration": 147,
+    "plot": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god."
+  },
+  {
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "rating": 8.3,
+    "genre": [
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen"
+    ],
+    "duration": 99,
+    "plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant."
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "rating": 8.1,
+    "genre": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Joel Coen",
+    "cast": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Julianne Moore"
+    ],
+    "duration": 117,
+    "plot": "Jeff 'The Dude' Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it."
+  },
+  {
+    "title": "North by Northwest",
+    "year": 1959,
+    "rating": 8.3,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Alfred Hitchcock",
+    "cast": [
+      "Cary Grant",
+      "Eva Marie Saint",
+      "James Mason"
+    ],
+    "duration": 136,
+    "plot": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies."
+  },
+  {
+    "title": "Singin' in the Rain",
+    "year": 1952,
+    "rating": 8.3,
+    "genre": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "director": "Stanley Donen",
+    "cast": [
+      "Gene Kelly",
+      "Donald O'Connor",
+      "Debbie Reynolds"
+    ],
+    "duration": 103,
+    "plot": "A silent film production company and cast make a difficult transition to sound."
+  },
+  {
+    "title": "The Sound of Music",
+    "year": 1965,
+    "rating": 8,
+    "genre": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "director": "Robert Wise",
+    "cast": [
+      "Julie Andrews",
+      "Christopher Plummer",
+      "Eleanor Parker"
+    ],
+    "duration": 172,
+    "plot": "A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower."
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "rating": 8.4,
+    "genre": [
+      "Action",
+      "Adventure"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman"
+    ],
+    "duration": 115,
+    "plot": "Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis."
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "rating": 8.3,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "director": "John Lasseter",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "duration": 81,
+    "plot": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom."
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "rating": 8.2,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "director": "Andrew Stanton",
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould"
+    ],
+    "duration": 100,
+    "plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home."
+  },
+  {
+    "title": "Inside Out",
+    "year": 2015,
+    "rating": 8.1,
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Pete Docter",
+    "cast": [
+      "Amy Poehler",
+      "Phyllis Smith",
+      "Richard Kind"
+    ],
+    "duration": 95,
+    "plot": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city."
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "rating": 8.3,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Pete Docter",
+    "cast": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "Christopher Plummer"
+    ],
+    "duration": 96,
+    "plot": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway."
+  },
+  {
+    "title": "Your Name",
+    "year": 2016,
+    "rating": 8.4,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "director": "Makoto Shinkai",
+    "cast": [
+      "Ryunosuke Kamiki",
+      "Mone Kamishiraishi",
+      "Ryo Narita"
+    ],
+    "duration": 106,
+    "plot": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. When a comet threatens to destroy everything, they must find each other."
+  },
+  {
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "rating": 8.4,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Yôji Matsuda",
+      "Yuriko Ishida",
+      "Billy Crudup"
+    ],
+    "duration": 134,
+    "plot": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and a mining colony."
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "year": 1988,
+    "rating": 8.5,
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "director": "Isao Takahata",
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi"
+    ],
+    "duration": 89,
+    "plot": "A young boy and his little sister struggle to survive in Japan during World War II."
+  },
+  {
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "rating": 8.1,
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken"
+    ],
+    "duration": 141,
+    "plot": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking him down."
+  },
+  {
+    "title": "Gone Girl",
+    "year": 2014,
+    "rating": 8.1,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris"
+    ],
+    "duration": 149,
+    "plot": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+  },
+  {
+    "title": "Zodiac",
+    "year": 2007,
+    "rating": 7.7,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Jake Gyllenhaal",
+      "Robert Downey Jr.",
+      "Mark Ruffalo"
+    ],
+    "duration": 157,
+    "plot": "In the late 1960s and 1970s, a cartoonist and a reporter pursue the Zodiac Killer, a serial murderer terrorizing the San Francisco Bay Area."
+  },
+  {
+    "title": "Social Network",
+    "year": 2010,
+    "rating": 7.8,
+    "genre": [
+      "Biography",
+      "Drama"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake"
+    ],
+    "duration": 120,
+    "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea."
+  },
+  {
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "rating": 8.2,
+    "genre": [
+      "Drama"
+    ],
+    "director": "Paul Thomas Anderson",
+    "cast": [
+      "Daniel Day-Lewis",
+      "Paul Dano",
+      "Ciaran Hinds"
+    ],
+    "duration": 158,
+    "plot": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business."
+  },
+  {
+    "title": "The Revenant",
+    "year": 2015,
+    "rating": 8,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Alejandro G. Iñárritu",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Will Poulter"
+    ],
+    "duration": 156,
+    "plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team."
+  },
+  {
+    "title": "La La Land",
+    "year": 2016,
+    "rating": 8,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "director": "Damien Chazelle",
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend"
+    ],
+    "duration": 128,
+    "plot": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+  },
+  {
+    "title": "Moonlight",
+    "year": 2016,
+    "rating": 7.4,
+    "genre": [
+      "Drama"
+    ],
+    "director": "Barry Jenkins",
+    "cast": [
+      "Mahershala Ali",
+      "Naomie Harris",
+      "Trevante Rhodes"
+    ],
+    "duration": 111,
+    "plot": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood."
+  },
+  {
+    "title": "Arrival",
+    "year": 2016,
+    "rating": 7.9,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker"
+    ],
+    "duration": 116,
+    "plot": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world."
+  },
+  {
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "rating": 8,
+    "genre": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas"
+    ],
+    "duration": 164,
+    "plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who has been missing for thirty years."
+  },
+  {
+    "title": "Dune",
+    "year": 2021,
+    "rating": 8,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothee Chalamet",
+      "Rebecca Ferguson",
+      "Zendaya"
+    ],
+    "duration": 155,
+    "plot": "Feature adaptation of Frank Herbert's science fiction novel about the son of a noble family entrusted with the protection of the most valuable asset in the galaxy."
+  },
+  {
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "rating": 8.6,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothee Chalamet",
+      "Zendaya",
+      "Austin Butler"
+    ],
+    "duration": 166,
+    "plot": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family."
+  },
+  {
+    "title": "Oppenheimer",
+    "year": 2023,
+    "rating": 8.3,
+    "genre": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon"
+    ],
+    "duration": 180,
+    "plot": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb."
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "rating": 7.8,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "director": "Daniel Kwan",
+    "cast": [
+      "Michelle Yeoh",
+      "Stephanie Hsu",
+      "Ke Huy Quan"
+    ],
+    "duration": 139,
+    "plot": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes."
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "rating": 8.3,
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "director": "Joseph Kosinski",
+    "cast": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly"
+    ],
+    "duration": 131,
+    "plot": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads a group of graduates."
+  },
+  {
+    "title": "John Wick: Chapter 4",
+    "year": 2023,
+    "rating": 7.7,
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Chad Stahelski",
+    "cast": [
+      "Keanu Reeves",
+      "Donnie Yen",
+      "Bill Skarsgård"
+    ],
+    "duration": 169,
+    "plot": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances."
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "rating": 8.4,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Action"
+    ],
+    "director": "Bob Persichetti",
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld"
+    ],
+    "duration": 117,
+    "plot": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "rating": 8.4,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Anthony Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Scarlett Johansson"
+    ],
+    "duration": 181,
+    "plot": "After the devastating events of Infinity War, the Avengers assemble once more to reverse Thanos' actions and restore balance to the universe."
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "rating": 8.4,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Anthony Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Chris Evans"
+    ],
+    "duration": 149,
+    "plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation puts an end to the universe."
+  },
+  {
+    "title": "The Avengers",
+    "year": 2012,
+    "rating": 8,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Joss Whedon",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Scarlett Johansson"
+    ],
+    "duration": 143,
+    "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity."
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "rating": 8,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "director": "James Gunn",
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista"
+    ],
+    "duration": 121,
+    "plot": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe."
+  },
+  {
+    "title": "Black Panther",
+    "year": 2018,
+    "rating": 7.3,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Ryan Coogler",
+    "cast": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o"
+    ],
+    "duration": 134,
+    "plot": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past."
+  },
+  {
+    "title": "Iron Man",
+    "year": 2008,
+    "rating": 7.9,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Jon Favreau",
+    "cast": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Terrence Howard"
+    ],
+    "duration": 126,
+    "plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "rating": 7.9,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "director": "Taika Waititi",
+    "cast": [
+      "Chris Hemsworth",
+      "Tom Hiddleston",
+      "Cate Blanchett"
+    ],
+    "duration": 130,
+    "plot": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his homeworld."
+  },
+  {
+    "title": "Deadpool",
+    "year": 2016,
+    "rating": 8,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Tim Miller",
+    "cast": [
+      "Ryan Reynolds",
+      "Morena Baccarin",
+      "T.J. Miller"
+    ],
+    "duration": 108,
+    "plot": "A wisecracking mercenary gets experimented on and becomes immortal yet horribly scarred, and sets out to track down the man who ruined his looks."
+  },
+  {
+    "title": "The Batman",
+    "year": 2022,
+    "rating": 7.8,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Matt Reeves",
+    "cast": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Paul Dano"
+    ],
+    "duration": 176,
+    "plot": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption."
+  },
+  {
+    "title": "Got Milk?",
+    "year": 2017,
+    "rating": 7.5,
+    "genre": [
+      "Comedy"
+    ],
+    "director": "Noah Baumbach",
+    "cast": [
+      "Greta Gerwig",
+      "Adam Driver"
+    ],
+    "duration": 93,
+    "plot": "A young couple navigates the challenges of raising a child in New York City."
+  },
+  {
+    "title": "Knives Out",
+    "year": 2019,
+    "rating": 7.9,
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Rian Johnson",
+    "cast": [
+      "Daniel Craig",
+      "Chris Evans",
+      "Ana de Armas"
+    ],
+    "duration": 130,
+    "plot": "A detective investigates the death of the patriarch of an eccentric, combative family."
+  },
+  {
+    "title": "Glass Onion",
+    "year": 2022,
+    "rating": 7.1,
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Rian Johnson",
+    "cast": [
+      "Daniel Craig",
+      "Edward Norton",
+      "Janelle Monáe"
+    ],
+    "duration": 139,
+    "plot": "Detective Blanc investigates a murder during a billionaire's getaway on his private Greek island."
+  },
+  {
+    "title": "Get Out",
+    "year": 2017,
+    "rating": 7.7,
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Jordan Peele",
+    "cast": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford"
+    ],
+    "duration": 104,
+    "plot": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point."
+  },
+  {
+    "title": "Us",
+    "year": 2019,
+    "rating": 6.9,
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Jordan Peele",
+    "cast": [
+      "Lupita Nyong'o",
+      "Winston Duke",
+      "Shahadi Wright Joseph"
+    ],
+    "duration": 116,
+    "plot": "A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them."
+  },
+  {
+    "title": "Hereditary",
+    "year": 2018,
+    "rating": 7.3,
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "director": "Ari Aster",
+    "cast": [
+      "Toni Collette",
+      "Milly Shapiro",
+      "Gabriel Byrne"
+    ],
+    "duration": 127,
+    "plot": "A grieving family is haunted by tragic and disturbing occurrences after the death of their secretive grandmother."
+  },
+  {
+    "title": "The Witch",
+    "year": 2015,
+    "rating": 6.9,
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "director": "Robert Eggers",
+    "cast": [
+      "Anya Taylor-Joy",
+      "Ralph Ineson",
+      "Kate Dickie"
+    ],
+    "duration": 92,
+    "plot": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession."
+  },
+  {
+    "title": "Midsommar",
+    "year": 2019,
+    "rating": 7.1,
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "director": "Ari Aster",
+    "cast": [
+      "Florence Pugh",
+      "Jack Reynor",
+      "Vilhelm Blomgren"
+    ],
+    "duration": 148,
+    "plot": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into a nightmare."
+  },
+  {
+    "title": "A Quiet Place",
+    "year": 2018,
+    "rating": 7.5,
+    "genre": [
+      "Drama",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "John Krasinski",
+    "cast": [
+      "Emily Blunt",
+      "John Krasinski",
+      "Millicent Simmonds"
+    ],
+    "duration": 90,
+    "plot": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing."
+  },
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "rating": 8.5,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Carrie Henn"
+    ],
+    "duration": 137,
+    "plot": "Decades after her first encounter, Ellen Ripley returns to the planet LV-424 where she first encountered the Xenomorph."
+  },
+  {
+    "title": "The Exorcist",
+    "year": 1973,
+    "rating": 8.1,
+    "genre": [
+      "Horror"
+    ],
+    "director": "William Friedkin",
+    "cast": [
+      "Linda Blair",
+      "Ellen Burstyn",
+      "Richard Burton"
+    ],
+    "duration": 122,
+    "plot": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter."
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "year": 1984,
+    "rating": 7.4,
+    "genre": [
+      "Horror",
+      "Thriller"
+    ],
+    "director": "Wes Craven",
+    "cast": [
+      "Heather Langenkamp",
+      "Robert Englund",
+      "John Saxon"
+    ],
+    "duration": 91,
+    "plot": "In the dreams of his victims, a spectral child murderer known as Freddy Krueger stalks the children of the parents who burned him alive."
+  },
+  {
+    "title": "The Conjuring",
+    "year": 2013,
+    "rating": 7.5,
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "James Wan",
+    "cast": [
+      "Vera Farmiga",
+      "Patrick Wilson",
+      "Lili Taylor"
+    ],
+    "duration": 112,
+    "plot": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse."
+  },
+  {
+    "title": "IT",
+    "year": 2017,
+    "rating": 7.3,
+    "genre": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "director": "Andy Muschietti",
+    "cast": [
+      "Bill Skarsgård",
+      "Jaeden Martell",
+      "Finn Wolfhard"
+    ],
+    "duration": 135,
+    "plot": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry."
+  },
+  {
+    "title": "Scream",
+    "year": 1996,
+    "rating": 7.4,
+    "genre": [
+      "Horror",
+      "Mystery"
+    ],
+    "director": "Wes Craven",
+    "cast": [
+      "Neve Campbell",
+      "Courteney Cox",
+      "David Arquette"
+    ],
+    "duration": 111,
+    "plot": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends."
+  },
+  {
+    "title": "Halloween",
+    "year": 1978,
+    "rating": 7.7,
+    "genre": [
+      "Horror",
+      "Thriller"
+    ],
+    "director": "John Carpenter",
+    "cast": [
+      "Donald Pleasence",
+      "Jamie Lee Curtis",
+      "Nancy Loomis"
+    ],
+    "duration": 91,
+    "plot": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield to kill again."
+  },
+  {
+    "title": "When Harry Met Sally...",
+    "year": 1989,
+    "rating": 7.6,
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Rob Reiner",
+    "cast": [
+      "Meg Ryan",
+      "Billy Crystal",
+      "Carrie Fisher"
+    ],
+    "duration": 96,
+    "plot": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship."
+  },
+  {
+    "title": "The Notebook",
+    "year": 2004,
+    "rating": 7.8,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Nick Cassavetes",
+    "cast": [
+      "Ryan Gosling",
+      "Rachel McAdams",
+      "Gena Rowlands"
+    ],
+    "duration": 123,
+    "plot": "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences."
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "rating": 7.9,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "duration": 194,
+    "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+  },
+  {
+    "title": "Pretty Woman",
+    "year": 1990,
+    "rating": 7.1,
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Garry Marshall",
+    "cast": [
+      "Richard Gere",
+      "Julia Roberts",
+      "Jason Alexander"
+    ],
+    "duration": 119,
+    "plot": "A wealthy Los Angeles businessman hires a beautiful escort for social events and accidentally falls in love with her."
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "year": 1999,
+    "rating": 7.3,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Gil Junger",
+    "cast": [
+      "Heath Ledger",
+      "Julia Stiles",
+      "Joseph Gordon-Levitt"
+    ],
+    "duration": 97,
+    "plot": "A pretty, popular teenager can't go out on a date until her ill-tempered older sister does."
+  },
+  {
+    "title": "Notting Hill",
+    "year": 1999,
+    "rating": 7.1,
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Roger Michell",
+    "cast": [
+      "Julia Roberts",
+      "Hugh Grant",
+      "Richard McCabe"
+    ],
+    "duration": 124,
+    "plot": "The life of a simple bookshop owner changes when he meets the most famous film star in the world."
+  },
+  {
+    "title": "Before Sunrise",
+    "year": 1995,
+    "rating": 8.1,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Richard Linklater",
+    "cast": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Andrea Eckert"
+    ],
+    "duration": 101,
+    "plot": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna before parting."
+  },
+  {
+    "title": "Before Sunset",
+    "year": 2004,
+    "rating": 8.1,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Richard Linklater",
+    "cast": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Vernon Dobtcheff"
+    ],
+    "duration": 80,
+    "plot": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour."
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "year": 2014,
+    "rating": 7.7,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Josh Boone",
+    "cast": [
+      "Shailene Woodley",
+      "Ansel Elgort",
+      "Nat Wolff"
+    ],
+    "duration": 126,
+    "plot": "Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam."
+  },
+  {
+    "title": "Love Actually",
+    "year": 2003,
+    "rating": 7.6,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Richard Curtis",
+    "cast": [
+      "Hugh Grant",
+      "Martine McCutcheon",
+      "Liam Neeson"
+    ],
+    "duration": 135,
+    "plot": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London."
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "year": 2018,
+    "rating": 6.9,
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Jon M. Chu",
+    "cast": [
+      "Constance Wu",
+      "Henry Golding",
+      "Gemma Chan"
+    ],
+    "duration": 120,
+    "plot": "An American-born Chinese woman travels to Singapore to meet her boyfriend's extremely wealthy family."
+  },
+  {
+    "title": "Superbad",
+    "year": 2007,
+    "rating": 7.6,
+    "genre": [
+      "Comedy"
+    ],
+    "director": "Greg Mottola",
+    "cast": [
+      "Jonah Hill",
+      "Michael Cera",
+      "Christopher Mintz-Plasse"
+    ],
+    "duration": 113,
+    "plot": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry."
+  },
+  {
+    "title": "The Hangover",
+    "year": 2009,
+    "rating": 7.7,
+    "genre": [
+      "Comedy"
+    ],
+    "director": "Todd Phillips",
+    "cast": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis"
+    ],
+    "duration": 100,
+    "plot": "Three buddies wake up from a bachelor party in Las Vegas with no memory of the previous night and the bachelor missing."
+  },
+  {
+    "title": "Bridesmaids",
+    "year": 2011,
+    "rating": 6.8,
+    "genre": [
+      "Comedy"
+    ],
+    "director": "Paul Feig",
+    "cast": [
+      "Kristen Wiig",
+      "Maya Rudolph",
+      "Wendi McLendon-Covey"
+    ],
+    "duration": 125,
+    "plot": "Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef."
+  },
+  {
+    "title": "Step Brothers",
+    "year": 2008,
+    "rating": 6.9,
+    "genre": [
+      "Comedy"
+    ],
+    "director": "Adam McKay",
+    "cast": [
+      "Will Ferrell",
+      "John C. Reilly",
+      "Mary Steenburgen"
+    ],
+    "duration": 98,
+    "plot": "Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry."
+  },
+  {
+    "title": "Anchorman: The Legend of Ron Burgundy",
+    "year": 2004,
+    "rating": 7.1,
+    "genre": [
+      "Comedy"
+    ],
+    "director": "Adam McKay",
+    "cast": [
+      "Will Ferrell",
+      "Christina Applegate",
+      "Steve Carell"
+    ],
+    "duration": 94,
+    "plot": "Ron Burgundy is San Diego's top-rated newsman in the male-dominated broadcasting of the 1970s, but that's all about to change when a new female employee with ambition to burn arrives."
+  },
+  {
+    "title": "The Incredibles",
+    "year": 2004,
+    "rating": 8,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "director": "Brad Bird",
+    "cast": [
+      "Craig T. Nelson",
+      "Holly Hunter",
+      "Samuel L. Jackson"
+    ],
+    "duration": 115,
+    "plot": "A family of superheroes living a quiet suburban life are forced to use their powers to save the world from a villain."
+  },
+  {
+    "title": "Ratatouille",
+    "year": 2007,
+    "rating": 8.1,
+    "genre": [
+      "Animation",
+      "Comedy"
+    ],
+    "director": "Brad Bird",
+    "cast": [
+      "Patton Oswalt",
+      "Ian Holm",
+      "Lou Romano"
+    ],
+    "duration": 111,
+    "plot": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant."
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "rating": 8.4,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "director": "Lee Unkrich",
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt"
+    ],
+    "duration": 105,
+    "plot": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
+  },
+  {
+    "title": "Encanto",
+    "year": 2021,
+    "rating": 7.3,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Musical"
+    ],
+    "director": "Byron Howard",
+    "cast": [
+      "Stephanie Beatriz",
+      "María Cecilia Botero",
+      "John Leguizamo"
+    ],
+    "duration": 102,
+    "plot": "A Colombian teenage girl has to face the frustration of being the only member of her family without magical powers."
+  },
+  {
+    "title": "Shrek 2",
+    "year": 2004,
+    "rating": 7.2,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "director": "Andrew Adamson",
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ],
+    "duration": 93,
+    "plot": "Shrek and Fiona travel to the Kingdom of Far Far Away to meet Fiona's parents."
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "rating": 8.1,
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "director": "Dean DeBlois",
+    "cast": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "America Ferrera"
+    ],
+    "duration": 98,
+    "plot": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed."
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "rating": 8.8,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Orlando Bloom"
+    ],
+    "duration": 178,
+    "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "rating": 8.8,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "duration": 179,
+    "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "rating": 7.6,
+    "genre": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Chris Columbus",
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "duration": 152,
+    "plot": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world."
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows - Part 2",
+    "year": 2011,
+    "rating": 8.1,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "David Yates",
+    "cast": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "duration": 130,
+    "plot": "Harry, Ron and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord."
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": 2005,
+    "rating": 6.9,
+    "genre": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Andrew Adamson",
+    "cast": [
+      "Tilda Swinton",
+      "Georgie Henley",
+      "William Moseley"
+    ],
+    "duration": 143,
+    "plot": "Four children discover the world of Narnia through a magical wardrobe."
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "rating": 8.2,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ],
+    "director": "Guillermo del Toro",
+    "cast": [
+      "Ivana Baquero",
+      "Sergi López",
+      "Maribel Verdú"
+    ],
+    "duration": 118,
+    "plot": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world."
+  },
+  {
+    "title": "The Hobbit: An Unexpected Journey",
+    "year": 2012,
+    "rating": 7.8,
+    "genre": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Martin Freeman",
+      "Ian McKellen",
+      "Richard Armitage"
+    ],
+    "duration": 169,
+    "plot": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home."
+  },
+  {
+    "title": "Braveheart",
+    "year": 1995,
+    "rating": 8.4,
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "director": "Mel Gibson",
+    "cast": [
+      "Mel Gibson",
+      "Sophie Marceau",
+      "Patrick McGoohan"
+    ],
+    "duration": 178,
+    "plot": "Scottish warrior William Wallace leads his people in a rebellion against King Edward I of England."
+  },
+  {
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "rating": 8.3,
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Matthew Modine",
+      "R. Lee Ermey",
+      "Vincent D'Onofrio"
+    ],
+    "duration": 116,
+    "plot": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training."
+  },
+  {
+    "title": "1917",
+    "year": 2019,
+    "rating": 8.3,
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "director": "Sam Mendes",
+    "cast": [
+      "George MacKay",
+      "Dean-Charles Chapman",
+      "Mark Strong"
+    ],
+    "duration": 119,
+    "plot": "Two young British soldiers during the First World War are given an impossible mission: deliver a message deep in enemy territory that will stop their own men from walking into a trap."
+  },
+  {
+    "title": "Dunkirk",
+    "year": 2017,
+    "rating": 7.8,
+    "genre": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Fionn Whitehead",
+      "Tom Hardy",
+      "Mark Rylance"
+    ],
+    "duration": 106,
+    "plot": "Allied soldiers from Belgium, the British Empire, Canada, and France are surrounded by the German army and evacuated during a fierce battle in World War II."
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "year": 2016,
+    "rating": 8.1,
+    "genre": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "director": "Mel Gibson",
+    "cast": [
+      "Andrew Garfield",
+      "Sam Worthington",
+      "Luke Bracey"
+    ],
+    "duration": 139,
+    "plot": "The true story of Pfc. Desmond T. Doss, who won the Congressional Medal of Honor despite his refusal to bear arms during WWII on religious grounds."
+  },
+  {
+    "title": "Paths of Glory",
+    "year": 1957,
+    "rating": 8.1,
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Kirk Douglas",
+      "Ralph Meeker",
+      "Adolphe Menjou"
+    ],
+    "duration": 87,
+    "plot": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them."
+  },
+  {
+    "title": "Platoon",
+    "year": 1986,
+    "rating": 8.1,
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "director": "Oliver Stone",
+    "cast": [
+      "Charlie Sheen",
+      "Tom Berenger",
+      "Willem Dafoe"
+    ],
+    "duration": 120,
+    "plot": "Chris Taylor, a young, naive recruit in Vietnam, faces a moral crisis when confronted with the horrors of war and the duality of man."
+  },
+  {
+    "title": "The Hurt Locker",
+    "year": 2008,
+    "rating": 7.5,
+    "genre": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "director": "Kathryn Bigelow",
+    "cast": [
+      "Jeremy Renner",
+      "Anthony Mackie",
+      "Brian Geraghty"
+    ],
+    "duration": 131,
+    "plot": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick style of handling his work."
+  },
+  {
+    "title": "March of the Penguins",
+    "year": 2005,
+    "rating": 7.5,
+    "genre": [
+      "Documentary"
+    ],
+    "director": "Luc Jacquet",
+    "cast": [
+      "Morgan Freeman"
+    ],
+    "duration": 85,
+    "plot": "In the Antarctic, every March since the beginning of time, the weight of millions of penguins journey inland to their breeding grounds."
+  },
+  {
+    "title": "Planet Earth II",
+    "year": 2016,
+    "rating": 9.5,
+    "genre": [
+      "Documentary"
+    ],
+    "director": "David Attenborough",
+    "cast": [
+      "David Attenborough"
+    ],
+    "duration": 378,
+    "plot": "David Attenborough returns with a new wildlife documentary that shows life in a variety of habitats."
+  },
+  {
+    "title": "Free Solo",
+    "year": 2018,
+    "rating": 8.2,
+    "genre": [
+      "Documentary"
+    ],
+    "director": "Elizabeth Chai",
+    "cast": [
+      "Alex Honnold",
+      "Jimmy Chin"
+    ],
+    "duration": 100,
+    "plot": "Follow Alex Honnold as he becomes the first person to ever free solo climb Yosemite's 3,000ft high El Capitan wall."
+  },
+  {
+    "title": "Blackfish",
+    "year": 2013,
+    "rating": 8.1,
+    "genre": [
+      "Documentary"
+    ],
+    "director": "Gabriela Cowperthwaite",
+    "cast": [
+      "Samantha Berg",
+      "John Jett",
+      "John Hargrove"
+    ],
+    "duration": 83,
+    "plot": "A documentary on the captive orca Tilikum, which was involved in the deaths of three people."
+  },
+  {
+    "title": "Jaws",
+    "year": 1975,
+    "rating": 8.2,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss"
+    ],
+    "duration": 124,
+    "plot": "When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down."
+  },
+  {
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "rating": 7.8,
+    "genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "John Hughes",
+    "cast": [
+      "Emilio Estevez",
+      "Judd Nelson",
+      "Molly Ringwald"
+    ],
+    "duration": 97,
+    "plot": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought."
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "rating": 7.8,
+    "genre": [
+      "Comedy"
+    ],
+    "director": "John Hughes",
+    "cast": [
+      "Matthew Broderick",
+      "Alan Ruck",
+      "Mia Sara"
+    ],
+    "duration": 103,
+    "plot": "A high school slacker pretends to be sick to skip school and has an adventure in Chicago."
+  },
+  {
+    "title": "The Karate Kid",
+    "year": 1984,
+    "rating": 7.3,
+    "genre": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "director": "John G. Avildsen",
+    "cast": [
+      "Ralph Macchio",
+      "Pat Morita",
+      "Noriyuki Pat Morita"
+    ],
+    "duration": 126,
+    "plot": "A martial arts master agrees to teach karate to a bullied teenager after they meet on vacation."
+  },
+  {
+    "title": "Rocky",
+    "year": 1976,
+    "rating": 8.1,
+    "genre": [
+      "Drama",
+      "Sport"
+    ],
+    "director": "John G. Avildsen",
+    "cast": [
+      "Sylvester Stallone",
+      "Talia Shire",
+      "Burt Young"
+    ],
+    "duration": 120,
+    "plot": "A small-time boxer gets a supremely rare chance to fight the heavy-weight champion in a bout in which he strives to go the distance for his self-respect."
+  },
+  {
+    "title": "Raging Bull",
+    "year": 1980,
+    "rating": 8.2,
+    "genre": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci"
+    ],
+    "duration": 129,
+    "plot": "The life of boxer Jake LaMotta, whose violence and temper led him to the top in the ring, yet destroyed his life outside of it."
+  },
+  {
+    "title": "Moneyball",
+    "year": 2011,
+    "rating": 7.8,
+    "genre": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "director": "Bennett Miller",
+    "cast": [
+      "Brad Pitt",
+      "Jonah Hill",
+      "Philip Seymour Hoffman"
+    ],
+    "duration": 133,
+    "plot": "Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis."
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "rating": 8.2,
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie"
+    ],
+    "duration": 180,
+    "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stockbroker living the high life to his fall involving crime, corruption and the federal government."
+  },
+  {
+    "title": "The Social Network",
+    "year": 2010,
+    "rating": 7.8,
+    "genre": [
+      "Biography",
+      "Drama"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake"
+    ],
+    "duration": 120,
+    "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea."
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "year": 2018,
+    "rating": 8,
+    "genre": [
+      "Biography",
+      "Drama",
+      "Musical"
+    ],
+    "director": "Bryan Singer",
+    "cast": [
+      "Rami Malek",
+      "Lucy Boynton",
+      "Gwilym Lee"
+    ],
+    "duration": 134,
+    "plot": "The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid in 1985."
+  },
+  {
+    "title": "The King's Speech",
+    "year": 2010,
+    "rating": 8,
+    "genre": [
+      "Biography",
+      "Drama"
+    ],
+    "director": "Tom Hooper",
+    "cast": [
+      "Colin Firth",
+      "Geoffrey Rush",
+      "Helena Bonham Carter"
+    ],
+    "duration": 118,
+    "plot": "The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer."
+  },
+  {
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "rating": 8.2,
+    "genre": [
+      "Biography",
+      "Drama"
+    ],
+    "director": "Ron Howard",
+    "cast": [
+      "Russell Crowe",
+      "Ed Harris",
+      "Jennifer Connelly"
+    ],
+    "duration": 135,
+    "plot": "After a brilliant but asocial mathematician accepts secret work in cryptography, his life takes a turn for the nightmarish."
+  },
+  {
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "rating": 8.1,
+    "genre": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "director": "Steve McQueen",
+    "cast": [
+      "Chiwetel Ejiofor",
+      "Michael Kenneth Williams",
+      "Michael Fassbender"
+    ],
+    "duration": 134,
+    "plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery."
+  },
+  {
+    "title": "The Imitation Game",
+    "year": 2014,
+    "rating": 8,
+    "genre": [
+      "Biography",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Morten Tyldum",
+    "cast": [
+      "Benedict Cumberbatch",
+      "Keira Knightley",
+      "Matthew Goode"
+    ],
+    "duration": 114,
+    "plot": "During World War II, the English mathematical genius Alan Turing tries to crack the German enigma code with help from fellow mathematicians."
+  },
+  {
+    "title": "Lincoln",
+    "year": 2012,
+    "rating": 7.7,
+    "genre": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Daniel Day-Lewis",
+      "Sally Field",
+      "David Strathairn"
+    ],
+    "duration": 150,
+    "plot": "As the American Civil War continues to rage, America's president struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on the decision to emancipate the slaves."
+  },
+  {
+    "title": "Jobs",
+    "year": 2013,
+    "rating": 6,
+    "genre": [
+      "Biography",
+      "Drama"
+    ],
+    "director": "Joshua Michael Stern",
+    "cast": [
+      "Ashton Kutcher",
+      "Dermot Mulroney",
+      "Josh Gad"
+    ],
+    "duration": 128,
+    "plot": "The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century."
+  },
+  {
+    "title": "Dirty Dancing",
+    "year": 1987,
+    "rating": 7,
+    "genre": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "director": "Emile Ardolino",
+    "cast": [
+      "Patrick Swayze",
+      "Jennifer Grey",
+      "Jerry Orbach"
+    ],
+    "duration": 100,
+    "plot": "Spending the summer at a Catskills resort with her family, Frances 'Baby' Houseman falls in love with the camp's dance instructor, Johnny Castle."
+  },
+  {
+    "title": "Grease",
+    "year": 1978,
+    "rating": 7.2,
+    "genre": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "director": "Randal Kleiser",
+    "cast": [
+      "John Travolta",
+      "Olivia Newton-John",
+      "Stockard Channing"
+    ],
+    "duration": 110,
+    "plot": "Good girl Sandy and greaser Danny fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?"
+  },
+  {
+    "title": "Chicago",
+    "year": 2002,
+    "rating": 7.2,
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Musical"
+    ],
+    "director": "Rob Marshall",
+    "cast": [
+      "Renée Zellweger",
+      "Catherine Zeta-Jones",
+      "Richard Gere"
+    ],
+    "duration": 113,
+    "plot": "Two death-row murderesses develop a fierce rivalry while competing for publicity, celebrity, and a slick lawyer's attention."
+  },
+  {
+    "title": "Les Misérables",
+    "year": 2012,
+    "rating": 7.6,
+    "genre": [
+      "Drama",
+      "Musical"
+    ],
+    "director": "Tom Hooper",
+    "cast": [
+      "Hugh Jackman",
+      "Russell Crowe",
+      "Anne Hathaway"
+    ],
+    "duration": 158,
+    "plot": "In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter."
+  },
+  {
+    "title": "The Greatest Showman",
+    "year": 2017,
+    "rating": 7.5,
+    "genre": [
+      "Biography",
+      "Drama",
+      "Musical"
+    ],
+    "director": "Michael Gracey",
+    "cast": [
+      "Hugh Jackman",
+      "Michelle Williams",
+      "Zac Efron"
+    ],
+    "duration": 105,
+    "plot": "Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation."
+  },
+  {
+    "title": "Mamma Mia!",
+    "year": 2008,
+    "rating": 6.5,
+    "genre": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "director": "Phyllida Lloyd",
+    "cast": [
+      "Meryl Streep",
+      "Pierce Brosnan",
+      "Amanda Seyfried"
+    ],
+    "duration": 108,
+    "plot": "The story of a bride-to-be trying to find her real father told using hit songs by the popular 1970s group ABBA."
+  },
+  {
+    "title": "In the Mood for Love",
+    "year": 2000,
+    "rating": 8.1,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Wong Kar-wai",
+    "cast": [
+      "Tony Chiu-Wai Leung",
+      "Maggie Cheung",
+      "Ping Lam Siu"
+    ],
+    "duration": 98,
+    "plot": "Two neighbors form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic."
+  },
+  {
+    "title": "Oldboy",
+    "year": 2003,
+    "rating": 8.4,
+    "genre": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Park Chan-wook",
+    "cast": [
+      "Choi Min-sik",
+      "Yoo Ji-tae",
+      "Kang Hye-jung"
+    ],
+    "duration": 120,
+    "plot": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days."
+  },
+  {
+    "title": "Memories of Murder",
+    "year": 2003,
+    "rating": 8.1,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Bong Joon-ho",
+    "cast": [
+      "Song Kang-ho",
+      "Kim Sang-kyung",
+      "Kim Roe-ha"
+    ],
+    "duration": 132,
+    "plot": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered."
+  },
+  {
+    "title": "The Handmaiden",
+    "year": 2016,
+    "rating": 8.1,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "director": "Park Chan-wook",
+    "cast": [
+      "Min-hee Kim",
+      "Jung-woo Ha",
+      "Jin-woong Jo"
+    ],
+    "duration": 145,
+    "plot": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her."
+  },
+  {
+    "title": "Amelie",
+    "year": 2001,
+    "rating": 8.3,
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Jean-Pierre Jeunet",
+    "cast": [
+      "Audrey Tautou",
+      "Mathieu Kassovitz",
+      "Rufus"
+    ],
+    "duration": 122,
+    "plot": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and discovers love along the way."
+  },
+  {
+    "title": "The Lives of Others",
+    "year": 2006,
+    "rating": 8.4,
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Florian Henckel von Donnersmarck",
+    "cast": [
+      "Ulrich Mühe",
+      "Martina Gedeck",
+      "Sebastian Koch"
+    ],
+    "duration": 137,
+    "plot": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives."
+  },
+  {
+    "title": "Metropolis",
+    "year": 1927,
+    "rating": 8.3,
+    "genre": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Fritz Lang",
+    "cast": [
+      "Brigitte Helm",
+      "Alfred Abel",
+      "Gustav Fröhlich"
+    ],
+    "duration": 153,
+    "plot": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet."
+  },
+  {
+    "title": "M",
+    "year": 1931,
+    "rating": 8.3,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Fritz Lang",
+    "cast": [
+      "Peter Lorre",
+      "Ellen Widmann",
+      "Inge Landgut"
+    ],
+    "duration": 117,
+    "plot": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt."
+  },
+  {
+    "title": "The Third Man",
+    "year": 1949,
+    "rating": 8.1,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Carol Reed",
+    "cast": [
+      "Joseph Cotten",
+      "Alida Valli",
+      "Orson Welles"
+    ],
+    "duration": 104,
+    "plot": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime."
+  },
+  {
+    "title": "Sunset Boulevard",
+    "year": 1950,
+    "rating": 8.4,
+    "genre": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "director": "Billy Wilder",
+    "cast": [
+      "William Holden",
+      "Gloria Swanson",
+      "Erich von Stroheim"
+    ],
+    "duration": 110,
+    "plot": "A screenwriter is hired to rework a faded silent film star's script, only to find himself developing a dangerous relationship."
+  },
+  {
+    "title": "Dr. Strangelove",
+    "year": 1964,
+    "rating": 8.4,
+    "genre": [
+      "Comedy",
+      "War"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Peter Sellers",
+      "George C. Scott",
+      "Sterling Hayden"
+    ],
+    "duration": 95,
+    "plot": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically try to stop."
+  },
+  {
+    "title": "The Great Dictator",
+    "year": 1940,
+    "rating": 8.4,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "director": "Charlie Chaplin",
+    "cast": [
+      "Charlie Chaplin",
+      "Paulette Goddard",
+      "Jack Oakie"
+    ],
+    "duration": 125,
+    "plot": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime."
+  },
+  {
+    "title": "Modern Times",
+    "year": 1936,
+    "rating": 8.5,
+    "genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Charlie Chaplin",
+    "cast": [
+      "Charlie Chaplin",
+      "Paulette Goddard",
+      "Henry Bergman"
+    ],
+    "duration": 87,
+    "plot": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman."
+  },
+  {
+    "title": "Bicycle Thieves",
+    "year": 1948,
+    "rating": 8.3,
+    "genre": [
+      "Drama"
+    ],
+    "director": "Vittorio De Sica",
+    "cast": [
+      "Lamberto Maggiorani",
+      "Enzo Staiola",
+      "Lianella Carell"
+    ],
+    "duration": 89,
+    "plot": "In post-war Rome, a working-class father's desperate search for his stolen bicycle, which he needs to be able to work."
+  },
+  {
+    "title": "8½",
+    "year": 1963,
+    "rating": 8,
+    "genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Federico Fellini",
+    "cast": [
+      "Marcello Mastroianni",
+      "Claudia Cardinale",
+      "Anouk Aimée"
+    ],
+    "duration": 138,
+    "plot": "A harassed film director retreats into his memories and fantasies to escape his domestic and professional problems."
+  },
+  {
+    "title": "The Seventh Seal",
+    "year": 1957,
+    "rating": 8.1,
+    "genre": [
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Ingmar Bergman",
+    "cast": [
+      "Max von Sydow",
+      "Gunnar Björnstrand",
+      "Bengt Ekerot"
+    ],
+    "duration": 96,
+    "plot": "A knight plays chess with Death during the Black Plague to buy time for his people."
+  },
+  {
+    "title": "L'Avventura",
+    "year": 1960,
+    "rating": 7.6,
+    "genre": [
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Michelangelo Antonioni",
+    "cast": [
+      "Gabriele Ferzetti",
+      "Monica Vitti",
+      "Lea Massari"
+    ],
+    "duration": 143,
+    "plot": "A woman disappears during a boating trip with friends. Her lover and her best friend search for her, and their journey leads to profound emotional revelations."
+  },
+  {
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "rating": 8.1,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Ryan O'Neal",
+      "Marisa Berenson",
+      "Patrick Magee"
+    ],
+    "duration": 184,
+    "plot": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England."
+  },
+  {
+    "title": "The Conformist",
+    "year": 1970,
+    "rating": 7.8,
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Bernardo Bertolucci",
+    "cast": [
+      "Jean-Louis Trintignant",
+      "Stefania Sandrelli",
+      "Gastone Moschin"
+    ],
+    "duration": 113,
+    "plot": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident."
+  },
+  {
+    "title": "Stalker",
+    "year": 1979,
+    "rating": 8.2,
+    "genre": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Andrei Tarkovsky",
+    "cast": [
+      "Alexander Kaidanovsky",
+      "Anatoliy Solonitsyn",
+      "Nikolay Grinko"
+    ],
+    "duration": 163,
+    "plot": "A guide leads two men through an area known as the Zone to find a room that grants wishes."
+  },
+  {
+    "title": "Solaris",
+    "year": 1972,
+    "rating": 8,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "director": "Andrei Tarkovsky",
+    "cast": [
+      "Natalya Bondarchuk",
+      "Donatas Banionis",
+      "Jüri Järvet"
+    ],
+    "duration": 167,
+    "plot": "A psychologist is sent to a space station orbiting the oceanic planet Solaris to investigate the death of a doctor and the mental breakdowns of other cosmonauts."
+  },
+  {
+    "title": "Come and See",
+    "year": 1985,
+    "rating": 8.3,
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "director": "Elem Klimov",
+    "cast": [
+      "Alexei Kravchenko",
+      "Olga Mironova",
+      "Liubomiras Lauciavicius"
+    ],
+    "duration": 142,
+    "plot": "A young boy is swept up in the horrors of World War II in Belarus as the Nazis invade."
+  },
+  {
+    "title": "Tinker Tailor Soldier Spy",
+    "year": 2011,
+    "rating": 7.1,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Tomas Alfredson",
+    "cast": [
+      "Gary Oldman",
+      "Colin Firth",
+      "Tom Hardy"
+    ],
+    "duration": 127,
+    "plot": "In the bleak days of the Cold War, espionage veteran George Smiley is recalled from retirement when there are signs that one of the senior figures in British Intelligence is a Soviet mole."
+  },
+  {
+    "title": "Nocturnal Animals",
+    "year": 2016,
+    "rating": 7.5,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Tom Ford",
+    "cast": [
+      "Amy Adams",
+      "Jake Gyllenhaal",
+      "Michael Shannon"
+    ],
+    "duration": 116,
+    "plot": "A wealthy art gallery owner receives a draft manuscript for a violent thriller novel from her ex-husband, which leads her to re-examine their relationship."
+  },
+  {
+    "title": "Prisoners",
+    "year": 2013,
+    "rating": 8.1,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis"
+    ],
+    "duration": 153,
+    "plot": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts."
+  },
+  {
+    "title": "Incendies",
+    "year": 2010,
+    "rating": 8.3,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Lubna Azabal",
+      "Mélissa Désormeaux-Poulin",
+      "Maxim Gaudette"
+    ],
+    "duration": 131,
+    "plot": "Twins journey to the Middle East to discover their family history and fulfill their mother's final wishes."
+  },
+  {
+    "title": " Sicario",
+    "year": 2015,
+    "rating": 7.6,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Emily Blunt",
+      "Benicio Del Toro",
+      "Josh Brolin"
+    ],
+    "duration": 121,
+    "plot": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico."
+  },
+  {
+    "title": "Chinatown",
+    "year": 1974,
+    "rating": 8.1,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Roman Polanski",
+    "cast": [
+      "Jack Nicholson",
+      "Faye Dunaway",
+      "John Huston"
+    ],
+    "duration": 130,
+    "plot": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder."
+  },
+  {
+    "title": "Snatch",
+    "year": 2000,
+    "rating": 8.2,
+    "genre": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Guy Ritchie",
+    "cast": [
+      "Jason Statham",
+      "Brad Pitt",
+      "Benicio Del Toro"
+    ],
+    "duration": 104,
+    "plot": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond."
+  },
+  {
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "year": 1998,
+    "rating": 8.1,
+    "genre": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Guy Ritchie",
+    "cast": [
+      "Jason Flemyng",
+      "Dexter Fletcher",
+      "Nick Moran"
+    ],
+    "duration": 107,
+    "plot": "A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other."
+  },
+  {
+    "title": "Pain and Glory",
+    "year": 2019,
+    "rating": 7.6,
+    "genre": [
+      "Drama"
+    ],
+    "director": "Pedro Almodóvar",
+    "cast": [
+      "Antonio Banderas",
+      "Asier Etxeandia",
+      "Penélope Cruz"
+    ],
+    "duration": 113,
+    "plot": "A film director reflects on the choices he's made in life as past and present come crashing down around him."
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "year": 2019,
+    "rating": 8.1,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Céline Sciamma",
+    "cast": [
+      "Noémie Merlant",
+      "Adèle Haenel",
+      "Luàna Bajrami"
+    ],
+    "duration": 122,
+    "plot": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman."
+  },
+  {
+    "title": "The Favourite",
+    "year": 2018,
+    "rating": 7.5,
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "director": "Yorgos Lanthimos",
+    "cast": [
+      "Olivia Colman",
+      "Emma Stone",
+      "Rachel Weisz"
+    ],
+    "duration": 119,
+    "plot": "In early 18th century England, a frail Queen Anne occupies the throne and her close friend, Lady Sarah, governs the country in her stead."
+  },
+  {
+    "title": "Poor Things",
+    "year": 2023,
+    "rating": 8,
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "director": "Yorgos Lanthimos",
+    "cast": [
+      "Emma Stone",
+      "Mark Ruffalo",
+      "Willem Dafoe"
+    ],
+    "duration": 141,
+    "plot": "The incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter."
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "rating": 8.2,
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Vivica A. Fox"
+    ],
+    "duration": 111,
+    "plot": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her."
+  },
+  {
+    "title": "Kill Bill: Vol. 2",
+    "year": 2004,
+    "rating": 8,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Uma Thurman",
+      "David Carradine",
+      "Michael Madsen"
+    ],
+    "duration": 137,
+    "plot": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd and the treacherous, one-eyed Elle Driver."
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "rating": 8.2,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "M. Night Shyamalan",
+    "cast": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette"
+    ],
+    "duration": 107,
+    "plot": "A boy who communicates with spirits seeks the help of a disheartened child psychologist."
+  },
+  {
+    "title": "Unbreakable",
+    "year": 2000,
+    "rating": 7.3,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "M. Night Shyamalan",
+    "cast": [
+      "Bruce Willis",
+      "Samuel L. Jackson",
+      "Robin Wright"
+    ],
+    "duration": 106,
+    "plot": "A man learns something extraordinary about himself after a devastating accident."
+  },
+  {
+    "title": "Signs",
+    "year": 2002,
+    "rating": 6.7,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "M. Night Shyamalan",
+    "cast": [
+      "Mel Gibson",
+      "Joaquin Phoenix",
+      "Rory Culkin"
+    ],
+    "duration": 106,
+    "plot": "A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come."
+  },
+  {
+    "title": "Split",
+    "year": 2016,
+    "rating": 7.3,
+    "genre": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "director": "M. Night Shyamalan",
+    "cast": [
+      "James McAvoy",
+      "Anya Taylor-Joy",
+      "Betty Buckley"
+    ],
+    "duration": 117,
+    "plot": "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th."
+  }
+]
