@@ -136,7 +136,6 @@ Open **[http://localhost:7860](http://localhost:7860)** in your browser.
 ## 💡 Example Queries
 
 <p align="center">
-  <img src="assets/wireframes/query_examples.png" alt="Query Examples" width="700" style="border-radius: 8px;">
 </p>
 
 | Category | Example Query |
