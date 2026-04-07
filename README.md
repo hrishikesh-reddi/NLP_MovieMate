@@ -34,8 +34,34 @@
   <i>Chat with MovieMate using natural language — it understands genres, actors, decades, moods, and more.</i>
 </p>
 
+### ️ Wireframe Design
+
 <p align="center">
-  <img src="assets/images/screenshots/chat_demo.png" alt="MovieMate Chat Demo" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="demo/wireframe-chat-layout.png" alt="Chat Interface Wireframe" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+</p>
+
+<p align="center">
+  <i>Chat interface layout showing: (1) Header, (2) Chat Area, (3) User Message, (4) Bot Response, (5) Suggestions, (6) Input</i>
+</p>
+
+### 🎬 Quick Suggestions Interface
+
+<p align="center">
+  <img src="demo/movie-suggestions-screen.png" alt="Movie Suggestions Screen" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+</p>
+
+<p align="center">
+  <i>Browse curated movie suggestions with one-click queries like "Suggest sci-fi movies after 2010" or "Christopher Nolan films"</i>
+</p>
+
+### 💬 Live Chat Demo
+
+<p align="center">
+  <img src="demo/chat-interface-demo.png" alt="Live Chat Demo" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+</p>
+
+<p align="center">
+  <i>MovieMate responds with detailed movie information including genre, director, cast, duration, and synopsis</i>
 </p>
 
 ---
