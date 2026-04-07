@@ -37,6 +37,7 @@
 ### ️ Wireframe Design
 
 <p align="center">
+  <img src="demo/wireframe-chat-layout.png" alt="Chat Interface Wireframe" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </p>
 
 <p align="center">
@@ -46,10 +47,19 @@
 ### 🎬 Quick Suggestions Interface
 
 <p align="center">
+  <img src="demo/movie-suggestions-screen.png" alt="Movie Suggestions Screen" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </p>
 
 <p align="center">
   <i>Browse curated movie suggestions with one-click queries like "Suggest sci-fi movies after 2010" or "Christopher Nolan films"</i>
+</p>
+
+<p align="center">
+  <img src="demo/suggestions-hover-effect.png" alt="Suggestions Hover Effect" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+</p>
+
+<p align="center">
+  <i>Interactive buttons with hover effects for better user experience</i>
 </p>
 
 ### 💬 Live Chat Demo
@@ -81,6 +91,7 @@
 ## 🏗️ Architecture
 
 <p align="center">
+  <img src="assets/images/diagrams/architecture.png" alt="MovieMate Architecture" width="800" style="border-radius: 12px; border: 1px solid #e1e4e8;">
 </p>
 
 ```
