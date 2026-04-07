@@ -37,7 +37,6 @@
 ### ️ Wireframe Design
 
 <p align="center">
-  <img src="demo/wireframe-chat-layout.png" alt="Chat Interface Wireframe" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </p>
 
 <p align="center">
@@ -47,7 +46,6 @@
 ### 🎬 Quick Suggestions Interface
 
 <p align="center">
-  <img src="demo/movie-suggestions-screen.png" alt="Movie Suggestions Screen" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </p>
 
 <p align="center">
@@ -154,7 +152,7 @@ Open **[http://localhost:7860](http://localhost:7860)** in your browser.
 
 ---
 
-## 📊 Data & Visualizations
+##  Data & Visualizations
 
 <p align="center">
   <b>Exploratory Data Analysis from the Jupyter Notebook</b>
