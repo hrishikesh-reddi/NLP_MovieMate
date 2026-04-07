@@ -287,22 +287,6 @@ Try these queries to test the bot:
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <b>Wireframe — Chat Interface Layout</b>
-</p>
-
-<p align="center">
-  <img src="assets/wireframes/chat_layout.png" alt="Chat Layout Wireframe" width="700" style="border-radius: 8px; border: 2px dashed #ccc;">
-</p>
-
-<p align="center">
-  <i>Components: (1) Header with title, (2) Chat area with messages, (3) Input box, (4) Send/Clear buttons, (5) Dynamic suggestion buttons, (6) Example queries</i>
-</p>
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how:
