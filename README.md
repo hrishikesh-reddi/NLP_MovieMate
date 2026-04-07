@@ -83,7 +83,6 @@
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="assets/images/diagrams/architecture.png" alt="MovieMate Architecture" width="800" style="border-radius: 12px; border: 1px solid #e1e4e8;">
 </p>
 
 ```
