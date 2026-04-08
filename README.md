@@ -37,7 +37,6 @@
 ### ️ Wireframe Design
 
 <p align="center">
-  <img src="demo/wireframe-chat-layout.png" alt="Chat Interface Wireframe" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </p>
 
 <p align="center">
@@ -91,7 +90,6 @@
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="assets/images/diagrams/architecture.png" alt="MovieMate Architecture" width="800" style="border-radius: 12px; border: 1px solid #e1e4e8;">
 </p>
 
 ```
