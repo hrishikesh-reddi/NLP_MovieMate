@@ -35,10 +35,7 @@
 </p>
 
 <p align="center">
-  <video width="800" controls style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
-    <source src="demo/movie-demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="demo/movie-demo.gif" alt="MovieMate Demo" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </p>
 
 <p align="center">
